@@ -1,1 +1,2 @@
-# Javascript- MINI - Projects
+# Javascript- Projects 
+
